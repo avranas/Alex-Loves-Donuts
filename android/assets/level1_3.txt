@@ -1,0 +1,5 @@
+30
+NewPhase 16 ListLoop 1
+RandomPause 60 120
+Trigger 11 90 135 false
+Pointer 11 12 5 2 0 60 false

@@ -1,0 +1,4 @@
+25
+NewPhase 25
+Random 5 45 -1 false
+Event 60 30 WackyRotator 15

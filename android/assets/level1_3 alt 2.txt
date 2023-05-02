@@ -1,0 +1,7 @@
+15
+NewPhase 16 ListLoop 1
+RandomPause 60 540
+Trigger 11 90 135 false
+NewPhase 16 ListLoop 1
+RandomPause 60 540
+Trigger 11 90 135 true

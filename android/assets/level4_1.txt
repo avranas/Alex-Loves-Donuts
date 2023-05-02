@@ -1,0 +1,8 @@
+60
+NewPhase 60 ListLoop 0
+TimedEvent 1 InputLightsOff 0.8 0.012
+Pointer 3.5 60 20 3.5 30 90 false
+NewPhase 60 ListLoop 0
+Pointer 3.5 60 20 3.5 30 90 false
+Pointer 3.5 45 20 3.5 30 90 false
+Pointer 3.5 30 20 3.5 30 90 false

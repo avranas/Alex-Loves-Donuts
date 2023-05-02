@@ -1,0 +1,18 @@
+80
+NewPhase 1 ListOnce 1
+Random 4 33 20 false
+
+NewPhase 1 ListOnce 1
+Random 4 33 20 false
+FrequentEvent 60 MakeFakeSide 5
+
+NewPhase 1 ListOnce 1
+Random 4 33 20 false
+FrequentEvent 60 MakeFakeCenter 5
+FrequentEvent 60 MakeFakeSide 5
+
+NewPhase 1 ListOnce 1
+Random 4 33 20 false
+TimedEvent 1 DonutBackground
+FrequentEvent 60 MakeFakeCenter 5
+FrequentEvent 60 MakeFakeSide 5

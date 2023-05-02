@@ -1,0 +1,5 @@
+40
+NewPhase 0 ListOnce 0
+Pointer 4 30 30 4 0 60 false
+Pause 180
+Pointer 7 18 10 4 0 60 false

@@ -1,0 +1,10 @@
+1
+NewPhase 14 Random 30
+Random 7 1 1 true
+OpeningPointer 7 1 1 1 1 30 30 false
+AlternatingPulse 9 1 1 7 false
+Aimer 7 1 1 false
+Aimer 7 1 1 true
+SimpleWall 7 45 1
+NewPhase 1 ListOnce 1
+Random 5 1 1 false

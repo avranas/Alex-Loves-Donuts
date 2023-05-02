@@ -1,0 +1,13 @@
+1
+ChangeBall
+NewPhase 7 Random 60
+AlternatingPulse 9 30 5 9 false
+OpeningPointer 6 60 6 3 120 30 120 false
+Random 9 3 20 false
+Random 9 3 20 false
+OpeningPointer 9 3 1 0 120 30 90 false
+NewPhase 1 ListLoop 60
+GapCloser 9 24 90 5 25
+OpeningPointer 9 4 80 2 120 20 90 true
+ChangeBall
+Random 1 1 1 false

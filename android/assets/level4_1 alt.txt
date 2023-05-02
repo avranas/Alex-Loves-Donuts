@@ -1,0 +1,5 @@
+Event 60 1000 AlternatingRotator 15 30 4
+Event 60 1000 AlternatingRotator 60 120 3
+Event 60 1000 AlternatingRotator 60 120 5
+Event 60 1000 AlternatingRotator 1 2 10
+Event 60 1000 AlternatingRotator 120 180 4.7

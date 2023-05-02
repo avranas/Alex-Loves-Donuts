@@ -1,0 +1,20 @@
+60
+NewPhase 0 ListOnce 45
+
+Pointer 7.5 13 10 5 0 60 false
+AlternatingPulse 4 20 5 10 false
+
+Pointer 7.5 13 10 5 0 60 false
+AlternatingPulse 5 20 5 10 false
+
+Pointer 7.5 13 10 5 0 60 false
+AlternatingPulse 6 20 5 10 false
+
+Pointer 7.5 13 10 5 0 60 false
+AlternatingPulse 7 20 5 10 false
+
+Pointer 7.5 13 10 5 0 60 false
+AlternatingPulse 8 20 5 10 false
+
+Pointer 7.5 13 10 5 0 60 false
+AlternatingPulse 9 20 5 10 false

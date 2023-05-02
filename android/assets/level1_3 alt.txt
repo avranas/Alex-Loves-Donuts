@@ -1,0 +1,12 @@
+70
+NewPhase 0 ListOnce 5
+Random 1 25 1 false
+Random 2 25 1 false
+Pointer 6 25 2 6 -1 -1 false
+Pause 100
+NewPhase 0 ListOnce 5
+Random 1 25 1 false
+Random 2 25 1 false
+Random 2 25 1 false
+Pointer 6 25 2 7 -1 -1 false
+Pause 100

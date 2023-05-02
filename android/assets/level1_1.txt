@@ -1,0 +1,3 @@
+20
+NewPhase 0 ListOnce 120
+Random 4 45 -1 false

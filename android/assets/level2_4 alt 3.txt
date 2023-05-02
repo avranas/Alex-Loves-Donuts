@@ -1,0 +1,18 @@
+1
+NewPhase 1 ListOnce 1
+OpeningPointer 6 3 10 1.5 60 
+
+NewPhase 14 Random 15
+
+AlternatingPulse 9 30 3 9 false
+Star 11 3 8 4.6 3
+Star 11 3 8 -4.6 3
+SineStar 8 3 8 5 3 4
+Walls 9 8 3 3 25 9
+DeathWheelPointer 9 6 3 2 3 60 60 20 45
+PulseWithRangeOfSpeed 8 60 4.5 10 5 3 true
+Chaos 15 45 8 6.5 11
+
+NewPhase 1 ListOnce 1
+SmarterRandom 400 1 6 3 30 2.5
+Random 5 1 1 false

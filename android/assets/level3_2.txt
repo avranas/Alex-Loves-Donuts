@@ -1,0 +1,33 @@
+74
+NewPhase 74 ListLoop 0
+Random 2 25 4 false
+Pause 120
+Random 3 25 4 false
+Pause 120
+Random 4 25 4 false
+Pause 120
+
+Random 2 25 5 false
+Pause 120
+Random 3 25 5 false
+Pause 120
+Random 4 25 5 false
+Pause 120
+
+Random 2 25 6 false
+Pause 120
+Random 3 25 6 false
+Pause 120
+Random 4 25 6 false
+Pause 120
+
+Random 2 25 7 false
+Pause 120
+Random 3 25 7 false
+Pause 120
+Random 4 25 7 false
+Pause 120
+
+Random 5 25 8 false
+
+IncreaseTransparency 170 0.1

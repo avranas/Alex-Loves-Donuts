@@ -1,0 +1,4 @@
+40
+NewPhase 40 ListLoop 30
+Pointer 4 30 5 4.2 0 60 false
+AlternatingPulse 8 30 3 9 false

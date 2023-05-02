@@ -1,0 +1,16 @@
+50
+NewPhase 60 ListLoop 0
+FrequentEvent 60 InputLightsOff
+Pointer 3.5 45 20 3.5 30 90 false
+
+NewPhase 60 ListLoop 0
+TimedEvent 130 Bump 10
+TimedEvent 1 InputTransparency 0.05
+Random 2.5 60 -1 false
+
+NewPhase 1000 ListLoop 0
+TimedEvent 60 PulsingZoom 5 0.5
+FrequentEvent 120 MakeFake
+Random 5 45 -1 false
+NewPhase 25 ListLoop 0
+Random 5 45 -1 false

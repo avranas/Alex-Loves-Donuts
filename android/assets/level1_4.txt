@@ -1,0 +1,21 @@
+200
+NewPhase 200 ListOnce 0
+Pointer 7 14 10 3 0 60 false
+Pointer 7 5  25 5 0 30 false
+Pointer 7 14 10 3 0 60 false
+Pointer 7 5  25 5 0 30 false
+
+Pointer 7 14 10 3 0 60 false
+
+Pointer 7 25 0  5 -1 -1 false
+Pointer 7   2  8  7 -1 -1 false
+
+Pointer 7 14 10 3 0 60 false
+
+Pointer 7 25 0  5 -1 -1 false
+Pointer 7   2  8  7 -1 -1 false
+
+Pointer 7 14 10 3 60 false
+
+Pointer 7 25 0  5 -1 -1 false
+Pointer 7   2  8  7 -1 -1 false

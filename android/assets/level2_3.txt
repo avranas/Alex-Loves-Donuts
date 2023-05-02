@@ -1,0 +1,4 @@
+40
+NewPhase 0 ListOnce 1
+IncreaseSpeedEveryDonut 0.1
+PointerWithHalfBadBalls 8 18 -1 0.4 -1 -1

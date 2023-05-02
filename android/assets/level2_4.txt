@@ -1,0 +1,17 @@
+1
+NewPhase 14 Random 30
+DeathWheelPointer 16 8 3 0.9 5 45 360 30 60
+Star 11 3 30 4.6 3
+Star 11 3 30 -4.6 3
+Star 11 3 30 3 4
+Star 11 3 30 -3 4
+SineStar 11 3 60 3 4 3
+AlternatingPulse 7 20 9 11 false
+Random 10 7 20 true
+Walls 9 30 999 4 25 7
+Aimer 15 5 20 false
+NewPhase 1 ListOnce 0
+GapCloser 9 24 90 5 25
+OpeningPointer 9 4 80 2 120 20 90 true
+Random 4 1 1 false
+Pause -1

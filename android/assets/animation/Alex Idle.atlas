@@ -1,0 +1,12 @@
+
+Alex Idle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+alex idle
+  rotate: false
+  xy: 1, 1
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1

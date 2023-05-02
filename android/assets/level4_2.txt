@@ -1,0 +1,4 @@
+80
+NewPhase 1 ListLoop 10
+Pointer 3 25 3 3 30 60 false
+FrequentEvent 100 LightsOff 120 0.012

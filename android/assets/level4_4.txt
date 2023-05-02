@@ -1,0 +1,4 @@
+40
+NewPhase 40 ListLoop 60
+ShrinkingDonutPointer 7 20 -1 4 60 0.95
+Random 4 55 -1 false

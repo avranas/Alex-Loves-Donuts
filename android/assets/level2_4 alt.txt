@@ -1,0 +1,9 @@
+100
+NewPhase 100 ListLoop 0
+Waves 8 35 120 4 30 2.2
+OneIsGood 30 3 6 90 10
+TightFit 60 20 8 6
+Slalom 25 16 6.5 15 10
+PulseWithRangeOfSpeed 30 60 4.5 10 5 3 true
+
+Random 4 55 -1 false
